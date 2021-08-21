@@ -4,7 +4,7 @@
 - 💞️ I like playing Chess.
 
 ## Follow my page :
-https://www.instagram.com/_.knowledgeengineering/
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/_.knowledgeengineering/" />][instagram]
 
 <!---
 SSMurthy619/SSMurthy619 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
