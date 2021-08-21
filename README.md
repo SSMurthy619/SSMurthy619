@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @SSMurthy619
+## Hi, I'm Shreepad Murthy and pursuing post graduation in AI.
+
+- 👋 Hi,Welcome to my profile. 
 - 👀 I’ve done bachelor's degree in Computer Science.
 - 🌱 I’m currently learning AI and Data Science.
 - 💞️ I like playing Chess.
