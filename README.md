@@ -1,4 +1,4 @@
-## Hi, I'm Shreepad Murthy and pursuing post graduation in AI.
+## Hi, I'm Shreepad Murthy, pursuing post graduation in AI.
 
 - 👋 Hi,Welcome to my profile. 
 - 👀 I’ve done bachelor's degree in Computer Science.
